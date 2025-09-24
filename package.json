@@ -1,0 +1,11 @@
+{
+  "name": "team-sync-portal",
+  "version": "1.0.0",
+  "description": "A collaborative tool to streamline communication and project management within teams.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
