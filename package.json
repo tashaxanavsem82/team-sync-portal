@@ -1,6 +1,6 @@
 {
   "name": "team-sync-portal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collaborative tool designed to enhance communication and project management within teams.",
   "main": "index.js",
   "scripts": {
